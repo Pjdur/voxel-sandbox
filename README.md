@@ -23,6 +23,8 @@ Voxel Sandbox is a 3D block game (like Minecraft) built from scratch using JavaS
 * **S / L:** Save / Load world (Singleplayer only)
 
 ## Setup & Running
+> If you want to see what it looks like first, try out this singleplayer original version:
+> https://pjdur.github.io/voxel-sandbox-old/
 
 ### 1. Requirements
 
