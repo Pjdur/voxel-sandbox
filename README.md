@@ -26,6 +26,7 @@ Voxel Sandbox is a 3D block game (like Minecraft) built from scratch using JavaS
 > If you want to see what it looks like first, try out this singleplayer original version:
 > https://pjdur.github.io/voxel-sandbox-old/
 
+Currently, there is no standalone installer.
 ### 1. Requirements
 
 Make sure you have these installed on your PC:
